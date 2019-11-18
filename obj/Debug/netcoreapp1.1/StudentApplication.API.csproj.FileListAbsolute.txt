@@ -1,0 +1,11 @@
+C:\Users\rathp\Desktop\Demo2.0\StudentApplication.API\bin\Debug\netcoreapp1.1\StudentApplication.API.deps.json
+C:\Users\rathp\Desktop\Demo2.0\StudentApplication.API\bin\Debug\netcoreapp1.1\StudentApplication.API.runtimeconfig.json
+C:\Users\rathp\Desktop\Demo2.0\StudentApplication.API\bin\Debug\netcoreapp1.1\StudentApplication.API.runtimeconfig.dev.json
+C:\Users\rathp\Desktop\Demo2.0\StudentApplication.API\bin\Debug\netcoreapp1.1\StudentApplication.API.dll
+C:\Users\rathp\Desktop\Demo2.0\StudentApplication.API\bin\Debug\netcoreapp1.1\StudentApplication.API.pdb
+C:\Users\rathp\Desktop\Demo2.0\StudentApplication.API\obj\Debug\netcoreapp1.1\StudentApplication.API.csprojAssemblyReference.cache
+C:\Users\rathp\Desktop\Demo2.0\StudentApplication.API\obj\Debug\netcoreapp1.1\StudentApplication.API.csproj.CoreCompileInputs.cache
+C:\Users\rathp\Desktop\Demo2.0\StudentApplication.API\obj\Debug\netcoreapp1.1\StudentApplication.API.AssemblyInfoInputs.cache
+C:\Users\rathp\Desktop\Demo2.0\StudentApplication.API\obj\Debug\netcoreapp1.1\StudentApplication.API.AssemblyInfo.cs
+C:\Users\rathp\Desktop\Demo2.0\StudentApplication.API\obj\Debug\netcoreapp1.1\StudentApplication.API.dll
+C:\Users\rathp\Desktop\Demo2.0\StudentApplication.API\obj\Debug\netcoreapp1.1\StudentApplication.API.pdb

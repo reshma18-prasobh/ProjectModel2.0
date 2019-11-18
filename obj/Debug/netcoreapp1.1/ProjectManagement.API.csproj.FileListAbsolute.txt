@@ -1,0 +1,11 @@
+C:\Users\rathp\Downloads\StudentApplication.API\obj\Debug\netcoreapp1.1\ProjectManagement.API.csprojAssemblyReference.cache
+C:\Users\rathp\Downloads\StudentApplication.API\obj\Debug\netcoreapp1.1\ProjectManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\rathp\Downloads\StudentApplication.API\obj\Debug\netcoreapp1.1\ProjectManagement.API.AssemblyInfoInputs.cache
+C:\Users\rathp\Downloads\StudentApplication.API\obj\Debug\netcoreapp1.1\ProjectManagement.API.AssemblyInfo.cs
+C:\Users\rathp\Downloads\StudentApplication.API\bin\Debug\netcoreapp1.1\ProjectManagement.API.deps.json
+C:\Users\rathp\Downloads\StudentApplication.API\bin\Debug\netcoreapp1.1\ProjectManagement.API.runtimeconfig.json
+C:\Users\rathp\Downloads\StudentApplication.API\bin\Debug\netcoreapp1.1\ProjectManagement.API.runtimeconfig.dev.json
+C:\Users\rathp\Downloads\StudentApplication.API\bin\Debug\netcoreapp1.1\ProjectManagement.API.dll
+C:\Users\rathp\Downloads\StudentApplication.API\bin\Debug\netcoreapp1.1\ProjectManagement.API.pdb
+C:\Users\rathp\Downloads\StudentApplication.API\obj\Debug\netcoreapp1.1\ProjectManagement.API.dll
+C:\Users\rathp\Downloads\StudentApplication.API\obj\Debug\netcoreapp1.1\ProjectManagement.API.pdb
